@@ -22,10 +22,20 @@ This space is where our students and faculty come together to:
 ---
 
 ## 📂 Projects & Highlights  
-🔹 Student Utility Apps (Timetables, Attendance, Study Helpers)  
-🔹 Research & Academic Tools  
-🔹 College Event & Fest Websites  
-🔹 Open-Source Contributions  
+
+🔹 **Student Utility Apps** – Timetables, Attendance Trackers, Study Helpers  
+🔹 **Research & Academic Tools** – Data Analysis, Paper Repositories, Plagiarism Checkers  
+🔹 **College Event Platforms** – Fest Websites, Registration Portals, Event Management Systems  
+🔹 **Learning Portals** – Online Notes, e-Library, Quiz & Practice Platforms  
+🔹 **AI & ML Projects** – Chatbots, Predictive Models, Recommendation Systems  
+🔹 **Web & Mobile Development** – Full-stack Apps, Progressive Web Apps, Hybrid Solutions  
+🔹 **IoT & Hardware Integration** – Smart Campus Devices, Automation Projects  
+🔹 **Open-Source Contributions** – Student-Led Tools & Frameworks for the Community  
+🔹 **Creative & Design Projects** – Portfolio Sites, Digital Art, UI/UX Innovations  
+🔹 **Startups & Innovation Prototypes** – Student Entrepreneurial Ideas in Action  
+🔹 **Data Science & Visualization** – Dashboards, Analytics Tools, Visualization Platforms  
+🔹 **Cybersecurity & Networking** – Ethical Hacking Labs, Secure Communication Tools  
+🔹 **Cloud & DevOps** – Deployments, CI/CD Pipelines, Scalable Hosting Projects  
 
 👉 Explore our repositories to see what we’re building!  
 
